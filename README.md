@@ -1,7 +1,9 @@
-Range function (APingBPong)
+APing BPong functions
 =================================================
 
-Range function (`1..100`) that puts numeric values and replace it with `APing` when value divided into `3`, `BPong` when into `5` and `APingBPong` when into `3` and `5`
+Range functions (`1..100`), that puts numeric values and replace it with `APing` when value divided into `3`, `BPong` when into `5` and `APingBPong` when into `3` and `5`
+
+There are `RaseBased` and `Simple` implementations. Checkout `lib` and `spec` folders for more info.
 
 Smoke
 -----

@@ -1,4 +1,4 @@
-module RangeFunction
+module RaiseBased
   RANGE = 1..100
   OUTPUT = $stdout
 
@@ -28,7 +28,3 @@ module RangeFunction
     MESSAGES[e.class]
   end
 end
-
-#
-# RangeFunction.()
-#
